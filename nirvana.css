@@ -1,0 +1,116 @@
+ h1 {
+	text-align: center;
+	font-size: 23px;
+	}
+
+h1:hover {
+	color: #b30000;
+	font-size: 27px;
+	font-family: helvetica;
+}
+
+ .datum {text-align: center;}
+
+h2 {font-size: 23px;}
+
+h2:hover {
+	color: #b30000;
+	font-size: 27px;
+}
+
+body {
+background-color:  #d9d9d9;}
+
+img {
+	padding-left: 345px;
+    padding-top:10px;
+   border-radius: 50%; 
+}
+
+.citat p {
+	font-size:16px;
+    text-align: center;
+}
+
+.lista h2 {
+	padding-left:100px;}
+
+	li {
+		font-size: 17px;
+	}
+	
+.naslov p {
+color: #141f1f;
+text-align: center;
+}
+
+iframe {
+outline-width: 12px;
+outline-color: blue;
+outline-offset: 0;
+outline-style: ridge;
+margin-left: 400px;
+
+
+}
+
+.intervju p {
+font-weight: bold;
+font-style: italic; 
+font-size: 18px;
+margin-left: 530px;
+padding-bottom: 10px;
+}
+
+.lista {
+	background-color: #f2f2f2;
+	border: 3px solid  #b3cccc;
+}
+
+a:hover {
+	font-size: 20px;
+color: black;
+font-weight:bolder;
+}
+
+.kraj p {
+	padding-left:450px;
+	font-size: 18px;
+}
+
+
+.button {
+	margin-top: 10px;
+	margin-left: 590px;
+	}
+
+button {
+	background-color: white;
+	color: black;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	margin-top: 10px;
+	margin-left: 15px;
+	border-bottom: 5px solid black;
+	border-right: 5px solid black;
+}
+
+button:hover {
+	padding-top: 13px;
+	padding-bottom: 13px;
+	margin-top: 10px;
+	margin-left: 10px;
+	font-weight: bolder;
+}
+
+.polly > p  {
+	font-size: 22px;
+	font-family: arial;} 
+
+audio {
+	margin-left: 20px;}
+
+.official {
+margin-left: 440px;
+
+	}
